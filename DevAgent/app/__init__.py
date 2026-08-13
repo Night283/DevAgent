@@ -1,1 +1,0 @@
-"""DevAgent Studio application package."""
